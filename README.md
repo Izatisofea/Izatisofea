@@ -1,16 +1,16 @@
-## Hi there 👋
+Here’s a Markdown version you can use for your GitHub profile:
 
-<!--
-**Izatisofea/Izatisofea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# 💻 Software Engineer
 
-Here are some ideas to get you started:
+Passionate and dedicated software engineer with hands-on experience in university projects and technical leadership. Skilled in maintaining and improving legacy codebases while delivering impactful software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Highlights
+- **Project Involvement:** Successfully contributed to multiple projects, ensuring timely delivery and quality results.
+- **Technical Lead:** Led a university project team, coordinating tasks, mentoring peers, and overseeing end-to-end development.
+- **Legacy Codebase Maintenance:** Expert in understanding, maintaining, and enhancing existing codebases to improve performance and stability.
+
+🌐 [Portfolio Website](https://izzatisofeaweb.netlify.app/)
+```
+
+You can customize it further based on the tools or programming languages you specialize in! 😊
